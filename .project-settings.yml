@@ -9,7 +9,6 @@ extensions:
   MultiParamTypeClasses: true
 environment: ghc-7.4.2-stable-13.09
 cabal-file: project.cabal
-hidden-packages: ''
 modules:
   Foundation:
     filename: src/Foundation.hs

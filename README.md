@@ -1,21 +1,17 @@
-This project is a combination of a working web application and a tutorial.
-The inline comments should guide you through an understanding of how this
-application works.
+# Introduction
+The introduction of FP Haskell Center(TM) personal edition means that sharing your projects
+with others is now easier than it has ever been before. This project will show you how.
 
-I recommend reading the modules in the following order:
+# Publish
+First, you need to publish your article. Click the `Publish` icon in the menu bar. It is a curved
+arrow pointing out of the page.
 
-* Foundation
-* Import
-* Handler.Home
-* Handler.Fib
-* Handler.Markdown
-* Main
+This will bring up a commit pane. Add a comment relevant to what's being published, and then
+commit it. You will need to do this even if their are no changes from the current head in your
+workspace.
 
-This application provides both a JSON API for two simple services (markdown processing
-and fibonacci number calculation), as well as a simplistic web frontend for accessing
-those services.
-
-Feel free to set the Main module as the target and run this application immediately to
-see what the result is. Then come back, read the code, experiment with some changes,
-and rerun the application. If at any point you want to undo your changes, use the "Git"
-top menu and select "Reset".
+# Share
+You are done. You can share the URL of your project with others just as it is - post it to reddit,
+facebook, or LinkedIn
+in your announcement of the project, link to it in a StackOverflow question about the code, letting
+people easily try their solutions before answering your question.
