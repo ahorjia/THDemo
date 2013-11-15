@@ -27,8 +27,9 @@ If your project is in a git repository that can be reached from the internet, yo
 with FP Haskell Center. A link of the form `https://www.fpcomplete.com/ide?git=*git-url*` will clone the
 git repository in the community edition, and then open that project.
 
-This works well with [github](https://github.net/). For instance, to clone a popular Yesod example, use
-use the url [http://www.fpcomplete.com/ide?git=https://github.com/snoyberg/yesod-web-service-tutorial.git](http://www.fpcomplete.com/ide?git=https://github.com/snoyberg/yesod-web-service-tutorial.git).
+This works well with [github](https://github.net/). For instance, to clone a popular Yesod example, use the url 
+
+[http://www.fpcomplete.com/ide?git=https://github.com/snoyberg/yesod-web-service-tutorial.git](http://www.fpcomplete.com/ide?git=https://github.com/snoyberg/yesod-web-service-tutorial.git).
 
 
 # Sharing from lpaste.net
