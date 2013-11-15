@@ -13,7 +13,7 @@ First, you need to publish your article. Click the `Publish` icon in the menu ba
 arrow pointing out of the page.
 
 This will bring up a commit pane. Add a comment relevant to what's being published, and then
-commit it. You will need to do this even if their are no changes from the current head in your
+commit it. You will need to do this even if there are no changes from the current head in your
 workspace. It will work like [this link](https://www.fpcomplete.com/school/using-fphc/sharing-projects-with-fp-haskell-center).
 
 ## Share
@@ -23,7 +23,7 @@ in your announcement of the project, link to it in a StackOverflow question abou
 people easily try their solutions before answering your question.
 
 # Sharing a git repository
-If your project is in a git repository that can be reached from the internet, you can share it in
+If your project is in a git repository that can be reached from the internet, you can share it
 with FP Haskell Center. A link of the form `https://www.fpcomplete.com/ide?git=*git-url*` will clone the
 git repository in the community edition, and then open that project.
 
@@ -55,6 +55,6 @@ By default, the fetched text will be put in `Main.hs` in the project. You can se
 pastie with a comment like: `{-# START_FILE *MyFile.hs* #-}`.
 This will cause the following content to go into `MyFile.hs`. If you use the `START_FILE` comment more than
 once, each occurence will cause the following content to go into different files - with the names you
-provided - when the pastie is cloned.
+provided - when the content is cloned.
 
 Here's a [simple example](https://www.fpcomplete.com/ide?title=3+Bobs&paste=https://dl.dropboxusercontent.com/u/41598573/3bobs.hs).
