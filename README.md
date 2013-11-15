@@ -1,5 +1,5 @@
 # Introduction
-The introduction of FP Haskell Center(TM) personal edition means that sharing your projects
+The introduction of FP Haskell Center(TM) community edition means that sharing your projects
 with others is now easier than it has ever been before. Doing so means they can edit, test and
 contribute to your project without having to install any software on their system or download
 and unpack your project. They can start testing, editing and contributing with a single click.
