@@ -9,6 +9,7 @@ extensions:
   MultiParamTypeClasses: true
 environment: ghc-7.4.2-stable-13.09
 cabal-file: project.cabal
+hidden-packages: ''
 modules:
   Foundation:
     filename: src/Foundation.hs
@@ -23,5 +24,5 @@ modules:
   Main(src/Main.hs):
     filename: src/Main.hs
 version: 1
-extra-packages: tasty-quickcheck 0.3.1
+extra-packages: ''
 ghc-args: []
