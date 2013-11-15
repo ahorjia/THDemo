@@ -49,7 +49,7 @@ the FP Haskell Center. Putting it on [DropBox](https://www.dropbox.com/), for in
 In order to clone a project from anywhere, you use a URL of the form
 `https://www.fpcomplete.com/ide?title=*Title*&paste=*content-url*`. The `Title` will be used for the title
 of your project. The `content-url` will be fetched to get the files for the project. That should return
-plain text.å
+plain text.
 
 By default, the fetched text will be put in `Main.hs` in the project. You can set the file name by starting the
 pastie with a comment like: `{-# START_FILE *MyFile.hs* #-}`.
